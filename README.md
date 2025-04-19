@@ -47,7 +47,7 @@ allow pasting and press Enter, then paste the JavaScript code again!
 #⚠️ This method works for inactivity timeouts but only up to 12 hours because it's a free version of Colab. If you need longer runtimes:
 
 -------------
-**Next setting google gemini for advance video script**
+ 6. **Next setting google gemini for advance video script**
  ```bash
 
    
@@ -71,3 +71,4 @@ Add Your Insights:
 
 Share your unique perspective on the ideas from the script. You can offer your own analysis or critique of the concepts, which not only helps to expand the content but also gives it a personal touch, making it distinct from the original.
  ```
+7. **paste your script video from notegpt**
