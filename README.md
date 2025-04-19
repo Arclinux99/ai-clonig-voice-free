@@ -48,7 +48,9 @@ allow pasting and press Enter, then paste the JavaScript code again!
 
 -------------
 **Next setting google gemini for advance video script**
-'''bash 
+ ```bash
+
+   
 Paraphrase and Expand:
 
 Rewrite the script in your own words while maintaining the original message. This will ensure that the content is unique, yet stays true to the core ideas.
@@ -68,4 +70,4 @@ Use background music, sound effects, or voice modulation to make the video feel 
 Add Your Insights:
 
 Share your unique perspective on the ideas from the script. You can offer your own analysis or critique of the concepts, which not only helps to expand the content but also gives it a personal touch, making it distinct from the original.
-    '''
+ ```
