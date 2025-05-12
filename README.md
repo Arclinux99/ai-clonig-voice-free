@@ -1,10 +1,7 @@
 # AI Cloning Voice Free
 Free voice cloning using Colab.
 
-[acces directly](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3NRQ1pfdjRJdTFuYXRmT1RfM3E1MmFmcUJSZ3xBQ3Jtc0tucll3Qy02aEIyejlKRFFGckkxTTYtWXpXTFdfMTNiTDlDLTdxTWlkSVY2c2VmOXg4SUJITnVDRmtMNG4wbXFJTS15SXpaRXVzVVRuaWlUNWV1WmpMYnRuVlJGMkpJLVVIZHotRU9JVUFFa3FTLXpJTQ&q=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2FNeuralFalconYT%2FF5-TTS-Demo%2Fblob%2Fmain%2FF5_TTS_Latest.ipynb&v=VwWjg5FKah8)
-
-
-👉 [Buka F5-TTS di Google Colab](https://colab.research.google.com/github/NeuralFalconYT/F5-TTS-Demo/blob/main/F5_TTS_Latest.ipynb)
+👉 [Directly Open F5-TTS on Google Colab](https://colab.research.google.com/github/NeuralFalconYT/F5-TTS-Demo/blob/main/F5_TTS_Latest.ipynb)
 
 
 
